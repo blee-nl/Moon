@@ -67,3 +67,4 @@ You will also see any lint errors in the console.
 **Should be more improve TypeScript coding**
 **No test..**
 **did not use useReducer yet..**
+**should add reset all filter button**
