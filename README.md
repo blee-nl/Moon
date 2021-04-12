@@ -11,7 +11,7 @@ https://lldev.thespacedevs.com/2.2.0/swagger
 
 In the project directory, you can run:
 
-### `npm install`
+### `npm install --legacy-peer-deps`
 
 Install packages before you run this app.
 
