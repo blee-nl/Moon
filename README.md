@@ -49,22 +49,22 @@ You will also see any lint errors in the console.
 
 ## Quick overview
 
-**No.1**
+**No.1**<br />
 ![Screenshot](overview1.png)
-**No.2**
+**No.2**<br />
 ![Screenshot](overview2.png)
-**No.3 - when user selected only 1 product**
+**No.3** <br />
 ![Screenshot](overview3.png)
-**No.4 - from middle size screen**
+**No.4**<br />
 ![Screenshot](overview4.png)
-**No.5 - from middle size screen**
+**No.5** <br />
 ![Screenshot](overview5.png)
 
 ## Code
 
-**Not happy with structer**
-**variable name upper case, low case miss using**
-**Should be more improve TypeScript coding**
-**No test..**
-**did not use useReducer yet..**
-**should add reset all filter button**
+**Not happy with structer** <br /> <br />
+**variable name upper case, low case miss using** <br /> <br />
+**Should be more improve TypeScript coding** <br /> <br />
+**No test..** <br /> <br />
+**did not use useReducer yet..** <br /> <br />
+**should add reset all filter button** <br /> <br />
